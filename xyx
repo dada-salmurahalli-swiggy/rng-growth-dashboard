@@ -1,0 +1,5 @@
+streamlit run streamlit-snowflake-app/src/app.py
+
+
+cd c:\Users\dada.salmurahalli1\Streamlit\streamlit-snowflake-app
+streamlit run src/app.py
