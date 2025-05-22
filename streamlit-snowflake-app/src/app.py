@@ -38,6 +38,8 @@ class DevNull:
 sys.stdout = DevNull()
 sys.stderr = DevNull()
 
+# --- Trigger Streamlit Cloud rebuild: 2025-05-23 ---
+
 @st.cache_resource(show_spinner=False)
 def get_connection():
     try:
